@@ -22,7 +22,6 @@ date_default_timezone_set('Europe/Berlin');
   </header>
 
   <section>
-    <?php include "intro.html"; ?>
   </section>
   
   <footer>
